@@ -17,6 +17,14 @@ It is published so the idea stays free for everyone. It is intended as prior
 art that prevents anyone from later patenting or claiming exclusive
 ownership of this system, its methods, or the variations it lists.
 
+## Want to help? Help wanted
+
+The design is published. The software is not built yet. If you want to
+help get it written (open source), deployed and running, start with
+[CONTRIBUTING.md](CONTRIBUTING.md). It lists the roles needed, the first
+milestone (one worker renders one job end to end), and how to get in
+touch: open an issue using the **"I want to help"** template.
+
 ## Licenses
 
 - **Design documents** (`docs/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
