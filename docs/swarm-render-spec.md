@@ -30,7 +30,14 @@ projects. Taxes on any income it earns are a separate matter.
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 Anyone may copy, share and build on it, including commercially, as long as
 they credit the author. Code in this repository is licensed separately under
-the GNU AGPL v3 (see `LICENSE`).
+the GNU AGPL v3 (see `LICENSE`). The author intends the reference
+implementation, when it is written, to be open source under the AGPL v3.
+
+These licenses cover this text, its figure and the code in this
+repository. They do not require anyone who builds their own system from
+the ideas here to open their code; ideas are not covered by copyright.
+What keeps the ideas free is this public, dated disclosure (prior art),
+not the licenses.
 
 ---
 

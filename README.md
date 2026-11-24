@@ -38,3 +38,8 @@ touch: open an issue using the **"I want to help"** template.
 - **Design documents** (`docs/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
   Use and build on them freely, including commercially, with credit.
 - **Code** (when added): GNU AGPL v3, see [`LICENSE`](LICENSE).
+
+The author intends the reference implementation to be open source under the
+AGPL v3. The licenses cover this repository's text, figures and code, not
+other people's own implementations of the ideas; the public, dated
+disclosure above is what keeps the ideas free to use.
