@@ -12,6 +12,10 @@ Read the design first: [Swarm Render spec](docs/swarm-render-spec.md).
 It has the architecture, the data model, the worker API, the tech stack,
 the repo layout and the build plan (milestones M1 to M7).
 
+The text side is in the [LLM Swarm spec](docs/llm-swarm-spec.md), with its
+own build plan (L1 to L6). Its hard rule: official provider APIs only,
+never scripting consumer chat websites or dodging rate limits.
+
 ## First milestone: M1, one worker and one job
 
 Everything starts here. M1 is small on purpose.

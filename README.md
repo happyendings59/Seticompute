@@ -17,6 +17,14 @@ It is published so the idea stays free for everyone. It is intended as prior
 art that prevents anyone from later patenting or claiming exclusive
 ownership of this system, its methods, or the variations it lists.
 
+**Companion: [LLM Swarm](docs/llm-swarm-spec.md)** (first published
+November 24, 2026). The same "torrent computing" idea for text: writing
+jobs are cut into pieces and routed across many AI providers' official
+APIs, free tiers first, with automatic format checks, provenance from the
+API itself, a Claude connector (MCP server) for the editor, and idle time
+jobs that keep an offline mirror of open knowledge such as Wikipedia
+dumps.
+
 ## Want to help? Help wanted
 
 The design is published. The software is not built yet. If you want to
